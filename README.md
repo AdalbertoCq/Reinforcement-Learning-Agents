@@ -19,5 +19,5 @@
   ![CartPole v0 OpenAI gym Q Rewards](https://github.com/AdalbertoCq/Reinforcement-Learning-Agents/blob/master/ddql_rewards.png "CartPole v0 OpenAI gym")
   ![CartPole v0 OpenAI gym Q value NN loss](https://github.com/AdalbertoCq/Reinforcement-Learning-Agents/blob/master/ddql_loss.png "CartPole v0 OpenAI gym")
   
-* [Deep Deterministic Policy Gradient]():
+* WIP:[Deep Deterministic Policy Gradient]():
   * Based on [T.Lillicrap et al. "Continuous control with deep reinforcement learning", 2016](https://arxiv.org/abs/1509.02971)
