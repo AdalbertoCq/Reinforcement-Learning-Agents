@@ -19,5 +19,11 @@
   ![CartPole v0 OpenAI gym Q Rewards](https://github.com/AdalbertoCq/Reinforcement-Learning-Agents/blob/master/ddql_rewards.png "CartPole v0 OpenAI gym")
   ![CartPole v0 OpenAI gym Q value NN loss](https://github.com/AdalbertoCq/Reinforcement-Learning-Agents/blob/master/ddql_loss.png "CartPole v0 OpenAI gym")
   
-* WIP:[Deep Deterministic Policy Gradient]():
+* [Deep Deterministic Policy Gradient]():
   * Based on [T.Lillicrap et al. "Continuous control with deep reinforcement learning", 2016](https://arxiv.org/abs/1509.02971)
+  * Deep Deterministic Policy Gradient implementation.
+  * Implemented action repeat, experience replay memory and fixed targets for Actor/Critic Networks with soft update.
+  * MountainCarContinuous-v0 solved after 70 episodes.
+  * MountainCarContinuous-v0 Critic Loss and Rewards.
+  ![MountainCarContinuous-v0 OpenAI gym Rewards](https://github.com/AdalbertoCq/Reinforcement-Learning-Agents/blob/master/ddpg_rewards.png "MountainCarContinuous-v0 OpenAI gym")
+  ![MountainCarContinuous-v0 Q value NN Loss](https://github.com/AdalbertoCq/Reinforcement-Learning-Agents/blob/master/ddpg_critic_loss.png "MountainCarContinuous-v0 OpenAI gym")
